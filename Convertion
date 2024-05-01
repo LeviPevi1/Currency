@@ -1,0 +1,147 @@
+{
+  "AED": {
+    "alphabeticCode": "AED",
+    "currency": "UAE Dirham",
+    "minorUnit": 2,
+    "numericCode": 784
+  },
+  "AFN": {
+    "alphabeticCode": "AFN",
+    "currency": "Afghani",
+    "minorUnit": 2,
+    "numericCode": 971
+  },
+  "ALL": {
+    "alphabeticCode": "ALL",
+    "currency": "Lek",
+    "minorUnit": 2,
+    "numericCode": 8
+  },
+  "AMD": {
+    "alphabeticCode": "AMD",
+    "currency": "Armenian Dram",
+    "minorUnit": 2,
+    "numericCode": 51
+  },
+  "ANG": {
+    "alphabeticCode": "ANG",
+    "currency": "Netherlands Antillean Guilder",
+    "minorUnit": 2,
+    "numericCode": 532
+  },
+  "AOA": {
+    "alphabeticCode": "AOA",
+    "currency": "Kwanza",
+    "minorUnit": 2,
+    "numericCode": 973
+  },
+  "ARS": {
+    "alphabeticCode": "ARS",
+    "currency": "Argentine Peso",
+    "minorUnit": 2,
+    "numericCode": 32
+  },
+  "AUD": {
+    "alphabeticCode": "AUD",
+    "currency": "Australian Dollar",
+    "minorUnit": 2,
+    "numericCode": 36
+  },
+  "AWG": {
+    "alphabeticCode": "AWG",
+    "currency": "Aruban Florin",
+    "minorUnit": 2,
+    "numericCode": 533
+  },
+  "AZN": {
+    "alphabeticCode": "AZN",
+    "currency": "Azerbaijan Manat",
+    "minorUnit": 2,
+    "numericCode": 944
+  },
+  "BAM": {
+    "alphabeticCode": "BAM",
+    "currency": "Convertible Mark",
+    "minorUnit": 2,
+    "numericCode": 977
+  },
+  "BBD": {
+    "alphabeticCode": "BBD",
+    "currency": "Barbados Dollar",
+    "minorUnit": 2,
+    "numericCode": 52
+  },
+  "BDT": {
+    "alphabeticCode": "BDT",
+    "currency": "Taka",
+    "minorUnit": 2,
+    "numericCode": 50
+  },
+  "BGN": {
+    "alphabeticCode": "BGN",
+    "currency": "Bulgarian Lev",
+    "minorUnit": 2,
+    "numericCode": 975
+  },
+  "BHD": {
+    "alphabeticCode": "BHD",
+    "currency": "Bahraini Dinar",
+    "minorUnit": 3,
+    "numericCode": 48
+  },
+  "BIF": {
+    "alphabeticCode": "BIF",
+    "currency": "Burundi Franc",
+    "minorUnit": 0,
+    "numericCode": 108
+  },
+  "BMD": {
+    "alphabeticCode": "BMD",
+    "currency": "Bermudian Dollar",
+    "minorUnit": 2,
+    "numericCode": 60
+  },
+  "BND": {
+    "alphabeticCode": "BND",
+    "currency": "Brunei Dollar",
+    "minorUnit": 2,
+    "numericCode": 96
+  },
+  "BOB": {
+    "alphabeticCode": "BOB",
+    "currency": "Boliviano",
+    "minorUnit": 2,
+    "numericCode": 68
+  },
+  "BOV": {
+    "alphabeticCode": "BOV",
+    "currency": "Mvdol",
+    "minorUnit": 2,
+    "numericCode": 984
+  },
+  "BRL": {
+    "alphabeticCode": "BRL",
+    "currency": "Brazilian Real",
+    "minorUnit": 2,
+    "numericCode": 986
+  },
+  "BSD": {
+    "alphabeticCode": "BSD",
+    "currency": "Bahamian Dollar",
+    "minorUnit": 2,
+    "numericCode": 44
+  },
+  "BTN": {
+    "alphabeticCode": "BTN",
+    "currency": "Ngultrum",
+    "minorUnit": 2,
+    "numericCode": 64
+  },
+  "BWP": {
+    "alphabeticCode": "BWP",
+    "currency": "Pula",
+    "minorUnit": 2,
+    "numericCode": 72
+  },
+  "BYN": {
+    "alphabeticCode": "BYN
